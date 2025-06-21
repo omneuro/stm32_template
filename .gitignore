@@ -1,0 +1,6 @@
+# === STM32 firmware artifacts====
+/target/
+**/*.rs.bk
+Cargo.lock
+/.cargo/
+

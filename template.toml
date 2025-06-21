@@ -1,0 +1,9 @@
+[template]
+# Name shown in prompts
+name = "STM32 Template"
+description = "Rust template for STM32 development with cortex-m, cortex-m-rt, and HAL"
+version = "0.1.0"
+
+[placeholders]
+chip = { type = "string", prompt = "What STM32 chip are you using? (e.g. stm32f446)" }
+
